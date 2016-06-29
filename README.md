@@ -49,3 +49,7 @@ a java blog
   
 ### 作者博客
   (http://www.zhouhaocheng.cn)
+
+
+-----------------
+<image src="http://static.oschina.net/uploads/space/2015/0705/111806_HbQi_998024.png" />
